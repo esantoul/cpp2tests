@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "cmake.automaticReconfigure": false,
+  "editor.detectIndentation": false,
+  "cmake.configureOnEdit": false
+}
